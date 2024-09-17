@@ -11,7 +11,6 @@ blinker==1.8.2
 cachetools==5.5.0
 certifi==2024.7.4
 charset-normalizer==2.1.1
-chromadb==0.3.29
 click==8.1.7
 clickhouse-connect==0.7.15
 cmake==3.25.2
@@ -52,11 +51,6 @@ jsonpointer==3.0.0
 jsonschema==4.22.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.7
-langchain==0.2.0
-langchain-community==0.2.3
-langchain-core==0.2.2
-langchain-text-splitters==0.2.1
-langsmith==0.1.83
 lz4==4.3.3
 Markdown==3.6
 markdown-it-py==3.0.0
@@ -85,7 +79,6 @@ psycopg2-binary==2.9.9
 pulsar-client==3.5.0
 pyarrow==17.0.0
 pybind11==2.13.1
-pydantic==1.10.17
 pydeck==0.9.1
 Pygments==2.18.0
 PyMySQL==1.1.1
